@@ -5,7 +5,7 @@
   --header-color: rgb(196, 68, 68);
 
   /* typography */
-  --font: serif;
+  --font: monospace;
 }
 
 body {
